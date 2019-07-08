@@ -1,0 +1,19 @@
+{
+  "name": "react-like",
+  "version": "1.0.0",
+  "description": "Attempt to see why react is a big deal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "webpack-dev-server --watch --compress"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Neeraj Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.7.1",
+    "webpack-dev-server": "^2.9.2"
+  }
+}
